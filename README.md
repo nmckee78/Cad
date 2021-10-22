@@ -1,6 +1,6 @@
 # Cad
 ## Table Of Contents
-* [Table of Contents](#TableOfContents)
+* [Table of Contents](#Table_Of_Contents)
 * [Cad Skateboard](#Cad_Skateboard)
 ---
 
@@ -8,7 +8,7 @@
 
 
 
-## Cad Skateboard
+## Cad_Skateboard
 
 ### Description 
 The Skateboard was our first Cad assignment and this is the guide we used: ![Link to the guide](https://cvilleschools.onshape.com/documents/13ed22e49540700e95ecc2f9/w/a69728f0755912dab03097d8/e/fd1dddfd8e940c1d1b429922?renderMode=0&uiState=616dcf0a23f0610526d17ec8)
