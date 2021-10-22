@@ -14,7 +14,7 @@
 The Skateboard was our first Cad assignment and was simply to design a skateboard.
 
 ### Picture
-![Picture of the cad](https://github.com/nmckee78/CircuitPython/blob/main/Pictures/Skate!.PNG)
+[Picture of the cad](https://github.com/nmckee78/CircuitPython/blob/main/Pictures/Skate!.PNG)
 
 ### Link to onshape
 ![Link to the skateboard](https://cvilleschools.onshape.com/documents/13ed22e49540700e95ecc2f9/w/a69728f0755912dab03097d8/e/678c1dc9b8dbdfd70db8b09b?renderMode=0&uiState=61731289f51ed07b10dfe64b)
